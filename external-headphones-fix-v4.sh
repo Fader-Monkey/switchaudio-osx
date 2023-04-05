@@ -1,4 +1,4 @@
 while command
 do
-        ~/switchaudio-osx/build/Release/SwitchAudioSource -s External\ Headphones; ~/switchaudio-osx/build/Release/SwitchAudioSource -s External\ Headphones -t input ; sleep 10
+        /Users/Shared/switchaudio-osx/build/Release/SwitchAudioSource -s External\ Headphones; /Users/Shared/switchaudio-osx/build/Release/SwitchAudioSource -s External\ Headphones -t input ; sleep 10
 done

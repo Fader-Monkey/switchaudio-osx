@@ -1,7 +1,7 @@
 #!/bin/bash
 #promts to install git/xcode if not already installed
 sudo xcode-select --install
-sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+sudo xcode-select -switch /Library/Developer/CommandLineTools
 #accepts xcode licence if not done already
 sudo xcodebuild -license accept
 #install needed xcode

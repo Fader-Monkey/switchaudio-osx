@@ -1,4 +1,6 @@
 #!/bin/bash
+#promts to install git/xcode if not already installed
+git help
 #accepts xcode licence if not done already
 sudo xcodebuild -license accept
 #install needed xcode

@@ -1,6 +1,4 @@
 #!/bin/bash
-#move active drectory for xcode
-sudo xcode-select -switch /
 #accepts xcode licence if not done already
 sudo xcodebuild -license accept
 #install needed xcode
